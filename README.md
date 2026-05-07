@@ -74,18 +74,6 @@ Mindset: Learn → Build → Improve → Repeat
 
 ---
 
-# 🎵 Anime / Focus Mode
-
-| Anime                  | Status           |
-| ---------------------- | ---------------- |
-| Death Note             | 🟣 Favorite      |
-| Attack on Titan        | 🔥 Watching      |
-| Bleach                 | ⚔️ Watching      |
-| Monster                | 🧠 Psychological |
-| Classroom of the Elite | 🎭 Strategy      |
-| Perfect Blue           | 🎬 Psychological |
-
----
 
 # 🌐 Connect With Me
 
