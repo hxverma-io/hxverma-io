@@ -34,16 +34,6 @@ Mindset: Learn → Build → Improve → Repeat
 
 ---
 
-# 🧠 Most Used Languages
-
-<div align="center">
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxverma-io&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=FFFFFF" />
-
-</div>
-
----
-
 # 🚀 Tech Stack
 
 <div align="center">
