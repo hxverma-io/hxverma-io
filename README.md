@@ -1,110 +1,89 @@
-# 👨‍💻 Hi, I'm Himanshu Verma
+<!--
+  Hi there! This is my GitHub profile README.
+  It shows my coding journey, interests, and stats.
+-->
 
-<div align="center">
+<h1 align="center">👋 Hi, I'm Himanshu Verma</h1>
+<h3 align="center">A passionate C learner from India</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;C+%7C+JavaScript+%7C+Web+Development;Tech+Creator+%7C+UI%2FUX+Learner;Building+Projects+Everyday" alt="Typing SVG" />
-
-</div>
-
----
-
-# ⚡ About Me
-
-```yaml
-Name: Himanshu Verma
-Username: hxverma-io
-Location: India
-Focus: Web Development + Tech + Automation
-Learning: C, JavaScript, Frontend, Backend
-Goal: Build Powerful Digital Projects
-Mindset: Learn → Build → Improve → Repeat
-```
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hxverma-io&label=Profile%20Views&color=0e75b6&style=flat" alt="hxverma-io" />
+  <img src="https://img.shields.io/github/followers/hxverma-io?label=Follow&style=social" alt="followers" />
+</p>
 
 ---
 
-# 📊 GitHub Dashboard
+### 🧑‍💻 About Me
 
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=hxverma-io&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=8A2BE2&text_color=FFFFFF" />
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hxverma-io&theme=radical&hide_border=true&background=0D1117&ring=FF00FF&fire=8A2BE2&currStreakLabel=FFFFFF" />
-
-</div>
+- 🔭 I’m currently learning **C programming** from scratch  
+- 🌱 I'm building my logic and problem-solving skills  
+- 💬 Ask me about **C, basics of programming, and anime**  
+- ⚡ Fun fact: I love music and anime  
 
 ---
 
-# 🚀 Tech Stack
+### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hxverma-io&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,nodejs,express,mongodb,git,github,vscode,photoshop" />
-
-</div>
-
----
-
-# 🌌 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hxverma-io&bg_color=0d1117&color=8A2BE2&line=FF00FF&point=FFFFFF&hide_border=true" width="95%"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hxverma-io&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
-# 🏆 Achievements
+### 🧠 Most Used Languages
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxverma-io&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=hxverma-io&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
-
-</div>
-
----
-
-# 🎯 Current Goals
-
-* ⚔️ Master Full Stack Development
-* 🎨 Improve UI/UX Design Skills
-* 📈 Build Online Projects & Products
-* 🧠 Learn Advanced Programming Logic
-* 🚀 Create Powerful Tech Content
+> *Currently, most of my code is in **C** as I'm learning it daily.*
 
 ---
 
+### 🎵 My Current Vibe
 
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="mailto:hxverma.dev@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=FF00FF" />
-</a>
-
-<a href="https://github.com/hxverma-io">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=8A2BE2" />
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFFF" />
-</a>
-
-</div>
+- 🎧 **Die With A Smile** – *Lady Gaga & Bruno Mars*  
+- 🎸 **Mary On A Cross** – *Ghost*  
 
 ---
 
-<div align="center">
+### 🎌 Anime I Love
 
-<img src="https://komarev.com/ghpvc/?username=hxverma-io&label=Profile%20Views&color=8A2BE2&style=flat" alt="Profile Views" />
-
-</div>
+- Naruto  
+- Death Note  
+- Jujutsu Kaisen  
+- Demon Slayer  
 
 ---
 
-<div align="center">
+### 📈 Daily Coding Habit
 
-## 「 Code. Build. Evolve. 」
+- I try to code **every day**  
+- Currently focusing on **C programming**  
+- Learning data structures and algorithms step by step  
 
-</div>
+---
+
+### 📌 Pinned Project
+
+> *Coming soon...*  
+> I'm working on building my first C project. Stay tuned! 🚀
+
+---
+
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://github.com/hxverma-io" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" />
+  </a>
+  <!-- Add more social links here if you want -->
+</p>
+
+---
+
+⭐ *Thanks for visiting my profile! Keep coding, keep growing.*  
