@@ -55,8 +55,8 @@
 
 - Naruto  
 - Death Note  
-- Jujutsu Kaisen  
-- Demon Slayer  
+- Attack On Titan  
+- Bleach 
 
 ---
 
