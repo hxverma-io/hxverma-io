@@ -37,7 +37,7 @@ whoami:
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&include_all_commits=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hxverma-io&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&include_all_commits=true" width="100%"/>
 
 </td>
 </tr>
@@ -85,10 +85,10 @@ whoami:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=hxverma-io&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxverma-io&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hxverma-io&theme=tokyo-night&hide_border=true" width="100%"/>
 
 </div>
 
@@ -97,7 +97,7 @@ whoami:
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=7&margin-w=10&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=hxverma-io&theme=tokyonight&no-frame=true&column=7&margin-w=10&row=1"/>
 </div>
 
 <br>
@@ -108,6 +108,6 @@ whoami:
 
 <sub>⭐ Consistency beats intensity — building in public, one commit at a time.</sub>
 <br>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=203a43&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=hxverma-io&label=Profile%20Views&color=203a43&style=flat" />
 
 </div>
