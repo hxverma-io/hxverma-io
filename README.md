@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:2b2b2b,100:000000&height=260&section=header&text=Himanshu Verma %20VERMA&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=%E3%80%8C%20コード侍%20%E2%80%A2%20BCA%20Student%20%E2%80%A2%20Loop%20Sensei%20in%20Training%20%E3%80%8D&descAlignY=58&descSize=16&descColor=aaaaaa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:2b2b2b,100:000000&height=260&section=header&text=Himanshu%20VERMA&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=%E3%80%8C%20コード侍%20%E2%80%A2%20BCA%20Student%20%E2%80%A2%20Loop%20Sensei%20in%20Training%20%E3%80%8D&descAlignY=58&descSize=16&descColor=aaaaaa" width="100%"/>
 
 <br>
 
