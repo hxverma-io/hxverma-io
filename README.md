@@ -48,6 +48,7 @@ fun_fact: I push code to GitHub every single day, no exceptions.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-2E8B57?style=for-the-badge&logo=cisco&logoColor=white)
 
 </div>
 
@@ -106,18 +107,6 @@ graph LR
 
 <br>
 
-## 📫 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/hxverma-io" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
-<br>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 <div align="center">
@@ -125,6 +114,7 @@ graph LR
 ### 💡 "Consistency beats intensity — one loop, one line, one day at a time."
 
 <img src="https://komarev.com/ghpvc/?username=hxverma-io&style=for-the-badge&color=8a2be2&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/hxverma-io?style=for-the-badge&color=b388ff&label=FOLLOWERS&logo=github&logoColor=white" />
 
 </div>
 
