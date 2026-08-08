@@ -87,10 +87,10 @@ respawn_date: "College reopens — Aug 17"
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=hxverma-io&hide_border=true&background=0D0D0D&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxverma-io&layout=compact&hide_border=true&langs_count=8&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&border_color=ffffff" width="49%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hxverma-io&hide_border=true&bg_color=0d0d0d&color=ffffff&line=ffffff&point=ffffff&area_color=333333&title_color=ffffff" width="100%"/>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=hxverma-io&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=hxverma-io&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=hxverma-io&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
@@ -135,10 +135,7 @@ respawn_date: "College reopens — Aug 17"
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=hxverma-io&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=hxverma-io&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=hxverma-io&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hxverma-io&theme=radical&no-frame=false&no-bg=true&margin-w=4)
