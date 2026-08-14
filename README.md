@@ -63,7 +63,7 @@ fun_fact: I push code to GitHub every single day, no exceptions.
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hxverma-io&theme=radical&hide_border=true&background=0D1117&stroke=8A2BE2&ring=B388FF&fire=FF5C8A&currStreakLabel=B388FF" width="70%">
+<img src="https://streak-stats.demolab.com/?user=hxverma-io&theme=radical&hide_border=true&background=0D1117&stroke=8A2BE2&ring=B388FF&fire=FF5C8A&currStreakLabel=B388FF" width="70%">
 
 <br><br>
 
